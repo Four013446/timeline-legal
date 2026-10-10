@@ -26,4 +26,4 @@ The App is provided for the developer's own personal, non-commercial use.
 本規約は予告なく変更される場合があります。変更後の規約は本ページに掲載した時点で効力を生じます。
 
 ## 6. お問い合わせ
-連絡先メールアドレス：`<ここにメールアドレスを記入>`
+連絡先メールアドレス：`3988459827@qq.com`

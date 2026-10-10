@@ -30,4 +30,4 @@ The App communicates only with earthquake/tsunami data providers (DM-D.S.S., JMA
 The App does not sell or share any user information with third parties.
 
 ## 5. お問い合わせ
-連絡先メールアドレス：`<ここにメールアドレスを記入>`
+連絡先メールアドレス：`3988459827@qq.com`
